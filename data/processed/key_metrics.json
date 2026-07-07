@@ -1,0 +1,42 @@
+{
+  "rows": 7560,
+  "columns": 9,
+  "date_range": "2020-10-01 to 2020-12-30",
+  "total_sales": 340302500,
+  "total_units": 136121,
+  "top_state": {
+    "State": "VIC",
+    "Sales": 105565000
+  },
+  "bottom_state": {
+    "State": "WA",
+    "Sales": 22152500
+  },
+  "top_customer_group": {
+    "Age_Group": "Men",
+    "Sales": 85750000
+  },
+  "bottom_customer_group": {
+    "Age_Group": "Seniors",
+    "Sales": 84037500
+  },
+  "top_time_of_day": {
+    "Time": "Morning",
+    "Sales": 114207500
+  },
+  "bottom_time_of_day": {
+    "Time": "Evening",
+    "Sales": 112087500
+  },
+  "missing_values": {
+    "Date": 0,
+    "Time": 0,
+    "State": 0,
+    "Age_Group": 0,
+    "Unit": 0,
+    "Sales": 0,
+    "Week": 0,
+    "Month": 0,
+    "Quarter": 0
+  }
+}
